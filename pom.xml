@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.seh</groupId>
 	<artifactId>StudentCrud</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>StudentCrud</name>
 	<description>Demo project for Spring Boot to Student Records</description>
 	<properties>
